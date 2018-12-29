@@ -198,7 +198,7 @@ input:-webkit-autofill:focus {
     right: 5%;
     top: 50%;
     width: 25px;
-    background: #8dc12b;
+    background: #438BD6 ;
     color: #fff;
     text-align: center;
     line-height: 27px;
@@ -228,7 +228,7 @@ input:-webkit-autofill:focus {
 }
 
 .panel-heading.active a {
-    color: #8dc12b
+    color: #438BD6 
 }
 
 
