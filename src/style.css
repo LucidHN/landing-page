@@ -725,7 +725,6 @@ nav.navbar.sticky.corporate-3 {
     position: absolute;
     text-align: center;
     top: 50%;
-    transform: skewX(90deg);
     transition: all 0.4s ease 0s;
     width: 100%;
     opacity: 0
@@ -754,7 +753,6 @@ nav.navbar.sticky.corporate-3 {
 }
 
 .single-team:hover .team-hover {
-    transform: skewX(0deg);
     opacity: 1
 }
 
