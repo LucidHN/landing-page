@@ -1,0 +1,12 @@
+{
+    "name": "Landing Page",
+    "version": "1.0.0",
+    "description": "Xoft Landing Page",
+    "scripts": {
+        "start": "serve"
+    },
+    "dependencies": {
+        "serve": "^10.0.1"
+    },
+    "author": "Xoft"
+}
