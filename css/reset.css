@@ -1,6 +1,8 @@
 * {
     margin: 0;
     padding: 0;
+    
+    
 }
 
 body {
@@ -235,9 +237,11 @@ input:-webkit-autofill:focus {
 /*js preloader*/
 
 .js div#preloader {
+    
     position: fixed;
     left: 0;
     top: 0;
+    margin: 0 !important;
     z-index: 988899;
     width: 100%;
     height: 100%;
@@ -248,4 +252,14 @@ input:-webkit-autofill:focus {
     background-repeat: no-repeat;
     background-position: center center;
     background-color: #fff;
+}
+
+
+.fixBottom {
+    margin: 0;
+    
+}
+
+.mb-20  {
+    margin-bottom: 20px;
 }
