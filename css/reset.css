@@ -263,3 +263,11 @@ input:-webkit-autofill:focus {
 .mb-20  {
     margin-bottom: 20px;
 }
+
+.pb-50 {
+    padding-bottom: 50px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
